@@ -1,0 +1,2 @@
+# User-Management-System
+Neste projeto, utilizei as seguintes ferramentas: Node.js, Express, MySQL e Express-Handlebars. O objetivo foi treinar o CRUD, que é essencial para o dia a dia de todo programador. Com o uso dessas ferramentas, desenvolvi um sistema de gerenciamento de usuários. O projeto foi uma oportunidade para aprimorar minhas habilidades e conhecimentos em programação. Ao final, obtive uma maior compreensão sobre como essas ferramentas funcionam juntas para criar um sistema robusto.
